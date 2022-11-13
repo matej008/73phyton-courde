@@ -1,4 +1,4 @@
-def display_massgage()
+def display_massage():
     print("I think it would be good for my future")
 
-    display_massgage()s
+display_massage()
